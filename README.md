@@ -12,7 +12,7 @@ This repository contains the following files:
 
 
 
-The R script run_analysis.R can be used to create the data set. 
+The R script <run_analysis.R> can be used to create the data set. 
 This script has following steps
 * Download source data and unzip it
 * Read Data
