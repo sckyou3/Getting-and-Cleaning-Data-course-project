@@ -1,10 +1,10 @@
 ## Code Book for Getting and Cleaning Data Course Project
 It is a code book for getting and cleaning data course project
-This file explains some information about the data file <tidy_data.txt> on this repo
+This file explains some information about the data file `tidy_data.txt` on this repo
 
 
 ### Data
-<tidy_data.txt> is the text file containing values.
+`tidy_data.txt` is the text file containing values.
 It has 81 variables and 181 observations
 
 ### Variables
@@ -22,76 +22,77 @@ The second variable shows subject and activities
       6. Walking Upstairs
 
 * Time Domain
-    * DomainBodyAccelerometerMeanX 
-    * timeDomainBodyAccelerometerMeanY 
-    * timeDomainBodyAccelerometerMeanZ 
+   
+   
+   * `DomainBodyAccelerometerMeanX` `timeDomainBodyAccelerometerMeanY``timeDomainBodyAccelerometerMeanZ`
+    
+    
+    
+    * `timeDomainBodyAccelerometerStandardDeviationX`
+   `timeDomainBodyAccelerometerStandardDeviationY`
+   `timeDomainBodyAccelerometerStandardDeviationZ` 
 
 
-    * timeDomainBodyAccelerometerStandardDeviationX 
-    * timeDomainBodyAccelerometerStandardDeviationY 
-    * timeDomainBodyAccelerometerStandardDeviationZ 
+    * `timeDomainGravityAccelerometerMeanX` 
+    `timeDomainGravityAccelerometerMeanY`
+     `timeDomainGravityAccelerometerMeanZ` 
 
 
-    * timeDomainGravityAccelerometerMeanX 
-    * timeDomainGravityAccelerometerMeanY 
-    * timeDomainGravityAccelerometerMeanZ 
+    * `timeDomainGravityAccelerometerStandardDeviationX` 
+   `timeDomainGravityAccelerometerStandardDeviationY` 
+   `timeDomainGravityAccelerometerStandardDeviationZ  `
 
 
-    * timeDomainGravityAccelerometerStandardDeviationX 
-    * timeDomainGravityAccelerometerStandardDeviationY 
-    * timeDomainGravityAccelerometerStandardDeviationZ 
+   * `timeDomainBodyAccelerometerJerkMeanX`  
+   `timeDomainBodyAccelerometerJerkMeanY` 
+  `timeDomainBodyAccelerometerJerkMeanZ` 
 
 
-   * timeDomainBodyAccelerometerJerkMeanX  
-   * timeDomainBodyAccelerometerJerkMeanY 
-   * timeDomainBodyAccelerometerJerkMeanZ 
+   * `timeDomainBodyAccelerometerJerkStandardDeviationX` 
+ `timeDomainBodyAccelerometerJerkStandardDeviationY`
+ `timeDomainBodyAccelerometerJerkStandardDeviationZ` 
 
 
-* * timeDomainBodyAccelerometerJerkStandardDeviationX 
-* * timeDomainBodyAccelerometerJerkStandardDeviationY 
-* * timeDomainBodyAccelerometerJerkStandardDeviationZ 
+   * `timeDomainBodyGyroscopeMeanX` 
+`timeDomainBodyGyroscopeMeanY` 
+` timeDomainBodyGyroscopeMeanZ `
 
 
-* * timeDomainBodyGyroscopeMeanX 
-* * timeDomainBodyGyroscopeMeanY 
-* * timeDomainBodyGyroscopeMeanZ 
+  * `timeDomainBodyGyroscopeStandardDeviationX` 
+`timeDomainBodyGyroscopeStandardDeviationY `
+`timeDomainBodyGyroscopeStandardDeviationZ `
 
 
-* * timeDomainBodyGyroscopeStandardDeviationX 
-* * timeDomainBodyGyroscopeStandardDeviationY 
-* * timeDomainBodyGyroscopeStandardDeviationZ 
+   * `timeDomainBodyGyroscopeJerkMeanX` 
+` timeDomainBodyGyroscopeJerkMeanY` 
+`timeDomainBodyGyroscopeJerkMeanZ `
 
 
-* * timeDomainBodyGyroscopeJerkMeanX 
-* * timeDomainBodyGyroscopeJerkMeanY 
-* * timeDomainBodyGyroscopeJerkMeanZ 
+  * `timeDomainBodyGyroscopeJerkStandardDeviationX `
+` timeDomainBodyGyroscopeJerkStandardDeviationY `
+`timeDomainBodyGyroscopeJerkStandardDeviationZ` 
 
 
-* * timeDomainBodyGyroscopeJerkStandardDeviationX 
-* * timeDomainBodyGyroscopeJerkStandardDeviationY 
-* * timeDomainBodyGyroscopeJerkStandardDeviationZ 
+* `timeDomainBodyAccelerometerMagnitudeMean `
+`timeDomainBodyAccelerometerMagnitudeStandardDeviation `
 
 
-* * timeDomainBodyAccelerometerMagnitudeMean 
-* * timeDomainBodyAccelerometerMagnitudeStandardDeviation 
+* `timeDomainGravityAccelerometerMagnitudeMean `
+`timeDomainGravityAccelerometerMagnitudeStandardDeviation `
 
 
-* * timeDomainGravityAccelerometerMagnitudeMean 
-* * timeDomainGravityAccelerometerMagnitudeStandardDeviation 
+* ` timeDomainBodyAccelerometerJerkMagnitudeMean `
+` timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation` 
 
 
-* * timeDomainBodyAccelerometerJerkMagnitudeMean 
-* * timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation 
+* `timeDomainBodyGyroscopeMagnitudeMean `
+`timeDomainBodyGyroscopeMagnitudeStandardDeviation `
 
 
-* * timeDomainBodyGyroscopeMagnitudeMean 
-* * timeDomainBodyGyroscopeMagnitudeStandardDeviation 
+* ` timeDomainBodyGyroscopeJerkMagnitudeMean` 
+` timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation `
 
-
-* * timeDomainBodyGyroscopeJerkMagnitudeMean 
-* * timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation 
-
-
+---
 
 * Frequency Domain
 * * frequencyDomainBodyAccelerometerMeanX 
