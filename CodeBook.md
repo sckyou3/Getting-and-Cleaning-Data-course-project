@@ -73,56 +73,56 @@ The second variable shows subject and activities
 `timeDomainBodyGyroscopeJerkStandardDeviationZ` 
 
 
-* `timeDomainBodyAccelerometerMagnitudeMean `
+   * `timeDomainBodyAccelerometerMagnitudeMean `
 `timeDomainBodyAccelerometerMagnitudeStandardDeviation `
 
 
-* `timeDomainGravityAccelerometerMagnitudeMean `
+   * `timeDomainGravityAccelerometerMagnitudeMean `
 `timeDomainGravityAccelerometerMagnitudeStandardDeviation `
 
 
-* ` timeDomainBodyAccelerometerJerkMagnitudeMean `
+   * ` timeDomainBodyAccelerometerJerkMagnitudeMean `
 ` timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation` 
 
 
-* `timeDomainBodyGyroscopeMagnitudeMean `
+   * `timeDomainBodyGyroscopeMagnitudeMean `
 `timeDomainBodyGyroscopeMagnitudeStandardDeviation `
 
-
-* ` timeDomainBodyGyroscopeJerkMagnitudeMean` 
+ 
+   * ` timeDomainBodyGyroscopeJerkMagnitudeMean` 
 ` timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation `
 
 ---
 
 * Frequency Domain
-* * frequencyDomainBodyAccelerometerMeanX 
-* * frequencyDomainBodyAccelerometerMeanY 
-* * frequencyDomainBodyAccelerometerMeanZ 
+   * `frequencyDomainBodyAccelerometerMeanX` 
+`frequencyDomainBodyAccelerometerMeanY` 
+`frequencyDomainBodyAccelerometerMeanZ `
 
 
-* * frequencyDomainBodyAccelerometerStandardDeviationX 
-* * frequencyDomainBodyAccelerometerStandardDeviationY 
-* * frequencyDomainBodyAccelerometerStandardDeviationZ 
+   * `frequencyDomainBodyAccelerometerStandardDeviationX `
+` frequencyDomainBodyAccelerometerStandardDeviationY `
+`frequencyDomainBodyAccelerometerStandardDeviationZ `
 
 
-* * frequencyDomainBodyAccelerometerMeanFrequencyX 
-* * frequencyDomainBodyAccelerometerMeanFrequencyY 
-* * frequencyDomainBodyAccelerometerMeanFrequencyZ 
+   * `frequencyDomainBodyAccelerometerMeanFrequencyX `
+` frequencyDomainBodyAccelerometerMeanFrequencyY `
+`frequencyDomainBodyAccelerometerMeanFrequencyZ `
 
 
-* * frequencyDomainBodyAccelerometerJerkMeanX 
-* * frequencyDomainBodyAccelerometerJerkMeanY 
-* * frequencyDomainBodyAccelerometerJerkMeanZ 
+   * `frequencyDomainBodyAccelerometerJerkMeanX `
+`frequencyDomainBodyAccelerometerJerkMeanY `
+`frequencyDomainBodyAccelerometerJerkMeanZ `
 
 
-* * frequencyDomainBodyAccelerometerJerkStandardDeviationX 
-* * frequencyDomainBodyAccelerometerJerkStandardDeviationY 
-* * frequencyDomainBodyAccelerometerJerkStandardDeviationZ 
+   * ` frequencyDomainBodyAccelerometerJerkStandardDeviationX `
+`frequencyDomainBodyAccelerometerJerkStandardDeviationY `
+`frequencyDomainBodyAccelerometerJerkStandardDeviationZ `
 
 
-* * frequencyDomainBodyAccelerometerJerkMeanFrequencyX 
-* * frequencyDomainBodyAccelerometerJerkMeanFrequencyY 
-* * frequencyDomainBodyAccelerometerJerkMeanFrequencyZ 
+   * `frequencyDomainBodyAccelerometerJerkMeanFrequencyX `
+`frequencyDomainBodyAccelerometerJerkMeanFrequencyY `
+`frequencyDomainBodyAccelerometerJerkMeanFrequencyZ `
 
 
 * * frequencyDomainBodyGyroscopeMeanX 
