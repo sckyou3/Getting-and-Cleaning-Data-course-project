@@ -22,6 +22,6 @@ This script has following steps
 * Appropriately labels the data set with descriptive variable names
 * From the data set in step4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
-The < tidy_data.txt > in this repository was created by  running the run_analysis.R script using R version 3.5.2 on Windows 10 pro 64-bit edtion.
+The < tidy_data.txt > in this repository was created by  running the <run_analysis.R> script using R version 3.5.2 on Windows 10 pro 64-bit edtion.
 
 The script requires the dplyr package
