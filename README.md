@@ -4,8 +4,14 @@ It is a project for Getting and Cleaning Data Course by Johns Hopkins University
 The data used in this project was collected from the accelerometer and gyroscope of Samsung Galaxy S smartphone.
 
 This repository contains the following files:
--README.md, which provides an overview of this project and data
--tidy_data.txt, which contains the data set
+
+
+-<README.md>, which provides an overview of this project and data
+
+
+-<tidy_data.txt>, which contains the data set
+
+
 -run_analysis.R, the R script used to create the data set
 
 
