@@ -20,7 +20,140 @@ The second variable shows subject and activities
       4. Walking
       5. Walking Downstairs
       6. Walking Upstairs
-      
+
+* Time Domain
+    * DomainBodyAccelerometerMeanX 
+    * timeDomainBodyAccelerometerMeanY 
+    * timeDomainBodyAccelerometerMeanZ 
+
+
+    * timeDomainBodyAccelerometerStandardDeviationX 
+    * timeDomainBodyAccelerometerStandardDeviationY 
+    * timeDomainBodyAccelerometerStandardDeviationZ 
+
+
+    * timeDomainGravityAccelerometerMeanX 
+    * timeDomainGravityAccelerometerMeanY 
+    * timeDomainGravityAccelerometerMeanZ 
+
+
+    * timeDomainGravityAccelerometerStandardDeviationX 
+    * timeDomainGravityAccelerometerStandardDeviationY 
+    * timeDomainGravityAccelerometerStandardDeviationZ 
+
+
+   * timeDomainBodyAccelerometerJerkMeanX  
+   * timeDomainBodyAccelerometerJerkMeanY 
+   * timeDomainBodyAccelerometerJerkMeanZ 
+
+
+* * timeDomainBodyAccelerometerJerkStandardDeviationX 
+* * timeDomainBodyAccelerometerJerkStandardDeviationY 
+* * timeDomainBodyAccelerometerJerkStandardDeviationZ 
+
+
+* * timeDomainBodyGyroscopeMeanX 
+* * timeDomainBodyGyroscopeMeanY 
+* * timeDomainBodyGyroscopeMeanZ 
+
+
+* * timeDomainBodyGyroscopeStandardDeviationX 
+* * timeDomainBodyGyroscopeStandardDeviationY 
+* * timeDomainBodyGyroscopeStandardDeviationZ 
+
+
+* * timeDomainBodyGyroscopeJerkMeanX 
+* * timeDomainBodyGyroscopeJerkMeanY 
+* * timeDomainBodyGyroscopeJerkMeanZ 
+
+
+* * timeDomainBodyGyroscopeJerkStandardDeviationX 
+* * timeDomainBodyGyroscopeJerkStandardDeviationY 
+* * timeDomainBodyGyroscopeJerkStandardDeviationZ 
+
+
+* * timeDomainBodyAccelerometerMagnitudeMean 
+* * timeDomainBodyAccelerometerMagnitudeStandardDeviation 
+
+
+* * timeDomainGravityAccelerometerMagnitudeMean 
+* * timeDomainGravityAccelerometerMagnitudeStandardDeviation 
+
+
+* * timeDomainBodyAccelerometerJerkMagnitudeMean 
+* * timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation 
+
+
+* * timeDomainBodyGyroscopeMagnitudeMean 
+* * timeDomainBodyGyroscopeMagnitudeStandardDeviation 
+
+
+* * timeDomainBodyGyroscopeJerkMagnitudeMean 
+* * timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation 
+
+
+
+* Frequency Domain
+* * frequencyDomainBodyAccelerometerMeanX 
+* * frequencyDomainBodyAccelerometerMeanY 
+* * frequencyDomainBodyAccelerometerMeanZ 
+
+
+* * frequencyDomainBodyAccelerometerStandardDeviationX 
+* * frequencyDomainBodyAccelerometerStandardDeviationY 
+* * frequencyDomainBodyAccelerometerStandardDeviationZ 
+
+
+* * frequencyDomainBodyAccelerometerMeanFrequencyX 
+* * frequencyDomainBodyAccelerometerMeanFrequencyY 
+* * frequencyDomainBodyAccelerometerMeanFrequencyZ 
+
+
+* * frequencyDomainBodyAccelerometerJerkMeanX 
+* * frequencyDomainBodyAccelerometerJerkMeanY 
+* * frequencyDomainBodyAccelerometerJerkMeanZ 
+
+
+* * frequencyDomainBodyAccelerometerJerkStandardDeviationX 
+* * frequencyDomainBodyAccelerometerJerkStandardDeviationY 
+* * frequencyDomainBodyAccelerometerJerkStandardDeviationZ 
+
+
+* * frequencyDomainBodyAccelerometerJerkMeanFrequencyX 
+* * frequencyDomainBodyAccelerometerJerkMeanFrequencyY 
+* * frequencyDomainBodyAccelerometerJerkMeanFrequencyZ 
+
+
+* * frequencyDomainBodyGyroscopeMeanX 
+* * frequencyDomainBodyGyroscopeMeanY 
+* * frequencyDomainBodyGyroscopeMeanZ 
+
+
+* * frequencyDomainBodyGyroscopeStandardDeviationX 
+* * frequencyDomainBodyGyroscopeStandardDeviationY 
+* * frequencyDomainBodyGyroscopeStandardDeviationZ 
+
+
+* * frequencyDomainBodyGyroscopeMeanFrequencyX 
+* * frequencyDomainBodyGyroscopeMeanFrequencyY 
+* * frequencyDomainBodyGyroscopeMeanFrequencyZ 
+
+
+* * frequencyDomainBodyAccelerometerMagnitudeMean 
+* * frequencyDomainBodyAccelerometerMagnitudeStandardDeviation 
+* * frequencyDomainBodyAccelerometerMagnitudeMeanFrequency 
+* * frequencyDomainBodyAccelerometerJerkMagnitudeMean 
+* * frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation 
+* * frequencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency 
+
+
+
+* * frequencyDomainBodyGyroscopeMagnitudeMean 
+* * frequencyDomainBodyGyroscopeMagnitudeStandardDeviation 
+* * frequencyDomainBodyGyroscopeMagnitudeMeanFrequency 
+* * frequencyDomainBodyGyroscopeJerkMagnitudeMean 
+* * frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation 
+* * frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency
 
 
  
